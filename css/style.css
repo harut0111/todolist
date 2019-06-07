@@ -79,7 +79,7 @@ input:focus {
     font-size: 20px;
     padding: 5px;
     height: auto;
-    border: 1px solid white;
+    border: 2px solid white;
     border-radius: 15px;
     margin: 15px;
     position: relative;
@@ -88,7 +88,7 @@ input:focus {
 }
 
 .list:hover {
-    background: rgb(37, 37, 35);
+    border-color: red;
 }
 
 p {
@@ -111,7 +111,6 @@ p {
     background: rgb(136, 136, 136);
     color: rgb(248, 242, 242);
     text-decoration: line-through;
-    border: none;
 }
 
 @media only screen and (max-width: 950px) {
