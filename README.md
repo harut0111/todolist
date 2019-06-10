@@ -1,3 +1,3 @@
 # To-Do-List
 
-https://harut0111.github.io/todolist/
+Click [here](https://harut0111.github.io/todolist/) to open
